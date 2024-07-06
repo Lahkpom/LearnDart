@@ -1,0 +1,2 @@
+Para compilar nuestra app tenemos que poner en la terminal 'dart compile exe ./main.dart'
+Esto nos genera un archivo .exe que se ejecuta y hace solo lo que diseñamos y se cierra

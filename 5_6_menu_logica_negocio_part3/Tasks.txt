@@ -1,0 +1,9 @@
+Task list:
+one|the first task|eTaskStatus.UNFINISHED
+two|the second task|eTaskStatus.UNFINISHED
+three|the treeth task|eTaskStatus.UNFINISHED
+Comprar|Shampoo, Jabn|eTaskStatus.UNFINISHED
+Baar fionna|Baarla en un da soleado|eTaskStatus.UNFINISHED
+Number1|null|eTaskStatus.UNFINISHED
+Number2|null|eTaskStatus.UNFINISHED
+Number3|null|eTaskStatus.UNFINISHED
